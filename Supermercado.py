@@ -24,4 +24,4 @@ asi que el total se multiplica por el valor que se esta pagando
 
 ''' 
 
-print(f"el total a pagar por todos los productos es {total}")
+print(f"el total a pagar por todos los productos es un precio especial {total}")
